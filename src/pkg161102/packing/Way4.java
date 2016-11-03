@@ -9,7 +9,7 @@ package pkg161102.packing;
 /**
  *Class Way4
  */
-public class Way4 {
+public class Way4 extends Pack{
    private double box;
    
    /**

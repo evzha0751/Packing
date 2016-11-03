@@ -14,6 +14,8 @@ public abstract class Pack {
     public Pack(){
         
     }
+    
+    
   public abstract double boxes();
     
 }
